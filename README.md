@@ -1,4 +1,4 @@
-🎬 Movies Industry Dataset: Exploratory Data Analysis
+# 🎬 Movies Industry Dataset: Exploratory Data Analysis
 
 * Cleaned and preprocessed raw data by handling missing values, removing duplicates, and correcting inconsistencies to ensure high data quality.
 * Utilized Python libraries such as **Pandas**, **NumPy**, **Matplotlib**, and **Seaborn** for data manipulation and visualization.
